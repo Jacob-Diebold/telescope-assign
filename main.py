@@ -8,6 +8,8 @@ import datetime
 import passwords
 
 
+# File for getting scopes from telescope assign website
+
 URL = passwords.URL
 
 MY_EMAIL = passwords.MY_EMAIL
